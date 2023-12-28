@@ -1,14 +1,33 @@
-# Fruitio
-Name: Fruitio
-Type: Movie Recommendation System
-Stores Detailed Movie Information: Name, ID, Actor Name, Director Name, Year of Release, Language, Genre, Poster, Rating
-Two User Interfaces: Admin and User
-Admin Interface Functionalities: Add, Delete, Modify Movie Information
-Recommendation System Based on User Parameters: Genre, Language, Year of Release, Rating
-Front-end Technologies: HTML, CSS
-Database: PHP MyAdmin
-Backend: MySQL
-Server-side Language: PHP for Query Processing
+# Fruitio - Movie Recommendation System
+
+## Overview
+Fruitio is a robust Movie Recommendation System designed to store and manage comprehensive movie details, facilitating a rich browsing experience. The system includes two distinct user interfaces, Admin and User, catering to different functionalities for efficient movie information management and personalized recommendations.
+
+## Stored Information
+- **Detailed Movie Information:** Name, ID, Actor Name, Director Name, Year of Release, Language, Genre, Poster, Rating
+
+## User Interfaces
+- **Admin Interface:** Enables administrators to Add, Delete, and Modify Movie Information seamlessly.
+- **User Interface:** Delivers personalized movie suggestions based on specified parameters such as Genre, Language, Year of Release, and Rating.
+
+## Technology Stack
+- **Front-end Technologies:** HTML, CSS
+- **Database:** PHP MyAdmin
+- **Backend:** MySQL
+- **Server-side Language:** PHP for Query Processing and Backend Operations
+
+## Functionalities
+- **Admin Interface Features:** Add, Delete, and Modify Movie Information.
+- **Recommendation System:** Provides tailored movie suggestions based on User Parameters.
+
+## System Flow
+- Admin Interface manages movie-related operations (Add, Delete, Modify).
+- User Interface accepts User Parameters to generate personalized movie recommendations.
+- PHP executes queries, interacts with the database, and handles backend operations.
+- MySQL processes queries and retrieves relevant movie data based on user preferences.
+
+
+
 
 
 MySQL Database TABLES:
@@ -27,7 +46,7 @@ MySQL Database TABLES:
   Rating table :
 ![image](https://user-images.githubusercontent.com/93395497/216546378-713b0de9-cb12-4c95-bd45-3b9dc69b35f0.png)
 
-  Frontend : HTML, CSS and PHP
+
 
 •	HOME PAGE: 
 ![image](https://user-images.githubusercontent.com/93395497/216546660-b3fb34d7-48e8-4ebe-9725-7348fb089d15.png)
@@ -62,11 +81,7 @@ SIGN IN PAGE :
   
   LIST ALL MOVIES:
   ![image](https://user-images.githubusercontent.com/93395497/216547476-5acf4556-b2a9-42e7-a977-e1893401b3d1.png)
-  
-  
-Movie recommendation system helps us get the movie of out preference. 
-This helps in reducing the effort in retrieving or searching for a particular movie. 
-This helps in increasing the efficiency in accessing the movie data in database and helps in faster access to the information. 
+   
   
 
 HOW TO RUN THIS IN YOUR COMPUTER :
