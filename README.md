@@ -1,16 +1,17 @@
 # Fruitio
-The movie recommendation system for dbms mini project.
- Fruitio is a movie recommendation system that stores detailed information about films, 
-including the name, ID, actor name, director name, year of release, language of the movie, genre, 
-poster, and rating. The system has two user interfaces; one for the admin and the other for the 
-user. The admin interface allows for the management of movie information, including the 
-addition, deletion, and modification of movies and their details. Fruitio is designed to provide 
-recommendations to users based on various search parameters. By providing four basic details 
-such as genre, language, year of release, and rating, the user will receive personalized movie 
-recommendations. The system is built using HTML, CSS as front-end technologies and PHP 
-MyAdmin as a database. PHP is used as a server-side language to perform queries.
-   Backend : MySql 
-   MySQL Database TABLES:
+Name: Fruitio
+Type: Movie Recommendation System
+Stores Detailed Movie Information: Name, ID, Actor Name, Director Name, Year of Release, Language, Genre, Poster, Rating
+Two User Interfaces: Admin and User
+Admin Interface Functionalities: Add, Delete, Modify Movie Information
+Recommendation System Based on User Parameters: Genre, Language, Year of Release, Rating
+Front-end Technologies: HTML, CSS
+Database: PHP MyAdmin
+Backend: MySQL
+Server-side Language: PHP for Query Processing
+
+
+MySQL Database TABLES:
   Movies table : 
 ![image](https://user-images.githubusercontent.com/93395497/216546015-90b64bd6-7106-460f-b4e8-1fc478add445.png)
 
